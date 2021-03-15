@@ -1,0 +1,66 @@
+.header{height:90px}
+.header-logo{font-size: 38px;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.5);
+    background-repeat: repeat;
+background-size: cover;
+color:white;
+padding: 20px 40px;
+
+}
+
+body{background-color: rgba(220, 220, 220, 0.452);
+}
+
+
+.header-list{
+             font-size: 15px;
+             float: right;
+             padding:15px;
+             padding-top:130px;
+            
+            }
+            
+.genre {padding: 15px;
+       float:left;
+        background-color: white;
+        border-radius: 10px 20px 30px 40px;
+    }
+h1{text-align: center;}
+.genre{padding: 15px;
+    float:left;}
+    .explain{text-align: center;}
+  .hyouji{float:right;}
+
+  .Big{text-align: center;}
+  @media(max-width:480px){
+    .setsumei{padding-left:40px;}
+
+    .explaine{width:60%;
+    text-align: center;
+    float: center;
+    }
+
+    .header{width:100%;}
+
+    .explaine h1{font-size:15px ;
+    }
+
+    .header-logo{font-size: 30px;
+        background-repeat: repeat;
+    background-size: cover;
+    float:center;
+    }
+
+    .genre li{float:left;
+    font-size:15px;
+margin: 15px;}
+
+.lesson-icon{size:50%;}
+
+    
+    
+    
+    
+    }
+
